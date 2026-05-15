@@ -2,7 +2,7 @@
 👨‍💻 Aspiring Full Stack Developer (MERN)<br>💻 Skilled in MongoDB, Express.js, React, and Node.js<br>🧠 Strong interest in Data Structures & Algorithms<br>⚙️ Passionate about Backend Development & scalable systems<br>🚀 Actively seeking Internship / Job opportunities
 
 # 💻 Live Projects:
-My Portfolio:  https://sandeepbisht-portfolio-zrhr.vercel.app/
+My Portfolio:  https://sandeepbisht-portfolio-zrhr.vercel.app/                                 
 Hotel Booking Project: https://hotel-booking-chi-eight.vercel.app
 
 ## 🌐 Socials:
